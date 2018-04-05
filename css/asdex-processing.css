@@ -1,0 +1,212 @@
+#prm-a {
+   left:50px;
+   top:31px;
+   width:94px;
+   height:75px;
+	display: block;
+
+}
+#sbs-sdp {
+   left:226px;
+   top:66px;
+   width:94px;
+   height:56px;
+	display: block;
+
+}
+#dds {
+   left:426px;
+   top:12px;
+   width:160px;
+   height:95px;
+	display: block;
+
+}
+
+#stars {
+   left:831px;
+   top:205px;
+   width:91px;
+   height:81px;
+	display: block;
+
+}
+
+
+#mdt {
+   left:866px;
+   top:311px;
+   width:53px;
+   height:54px;
+	display: block;
+
+}
+
+#dp {
+   left:853px;
+   top:477px;
+   width:73px;
+   height:114px;
+	display: block;
+
+}
+
+#msdp {
+   left:429px;
+   top:152px;
+   width:358px;
+   height:579px;
+	display: block;
+	z-index: 2;
+}
+
+#rdp {
+   left:403px;
+   top:834px;
+   width:326px;
+   height:166px;
+	display: block;
+
+}
+
+#asr {
+   left:344px;
+   top:720px;
+   width:73px;
+   height:54px;
+	display: block;
+
+}
+
+#tp {
+   left:34px;
+   top:239px;
+   width:306px;
+   height:315px;
+	display: block;
+	z-index: 2;
+
+}
+
+#ru {
+   left:111px;
+   top:635px;
+   width:209px;
+   height:56px;
+	display: block;
+
+}
+
+
+
+#rscp {
+   left:226px;
+   top:843px;
+   width:136px;
+   height:135px;
+	display: block;
+
+}
+#mstm {
+   left:448px;
+   top:214px;
+   width:120px;
+   height:151px;
+   z-index: 6;
+	display: block;
+
+
+}
+#flip {
+   left:624px;
+   top:218px;
+   width:125px;
+   height:54px;
+   z-index: 6;
+	display: block;
+}
+#axsl {
+   left:646px;
+   top:392px;
+   width:121px;
+   height:52px;
+   z-index: 6;
+	display: block;
+
+
+}
+#tsar {
+   left:644px;
+   top:484px;
+   width:123px;
+   height:95px;
+   z-index: 6;
+	display: block;
+
+
+}
+#ssdp-ssdp {
+   left:458px;
+   top:625px;
+   width:241px;
+   height:69px;
+   z-index: 6;
+	display: block;
+
+
+}
+
+#CAT11 {
+   left:758px;
+   top:863px;
+   width:-4px;
+   height:-77px;
+	display: block;
+
+}
+
+#muxde {
+   left:55px;
+   top:266px;
+   width:129px;
+   height:52px;
+   z-index: 6;
+	display: block;
+
+}
+#ssdp-astp {
+   left:225px;
+   top:264px;
+   width:95px;
+   height:52px;
+   z-index: 6;
+	display: block;
+
+}
+#taper {
+   left:233px;
+   top:376px;
+   width:83px;
+   height:48px;
+   z-index: 6;
+	display: block;
+
+}
+#rucis {
+   left:228px;
+   top:473px;
+   width:93px;
+   height:50px;
+   z-index: 6;
+	display: block;
+
+}
+#refsync {
+   left:61px;
+   top:376px;
+   width:116px;
+   height:48px;
+   z-index: 6;
+	display: block;
+
+}
