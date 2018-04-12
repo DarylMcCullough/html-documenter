@@ -83,3 +83,12 @@ and place into the "html" directory.
 "<image-name>.jpg", "<image-title>", and "<alt-text>" to match the name and title
 of your image.
 5. Now you are ready to create your image map.
+
+## A Sample Project
+A sample project is found in the directory called "sample project". Open "asde-x-overview_helper.1.html"
+to see the tool for creating an image map at work. Open "asde-x-overview.html" to
+see the completed image map in action.
+
+## Dependencies
+Currently, the only browser that has been thoroughly tested is Chrome. Javascript
+must be enabled.
