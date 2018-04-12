@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+   
+<style type="text/css">
+@import url("../css/master.css");
+</style>
+
+
+<body>
+
+<div class="parent">
+<img src="../images/<image-name>.jpg" class="media" title="<image-title>" alt="<alt-text>" width="800" onclick="checkCursor()" />
+
+
+<div class="mytestdiv tooltip" id="stars"></div>
+</div>
+
+<div id="yourDivElement"></div>
+<div id="yourSecondDivElement"></div>
+
+<dialog id="listDialog">
+  <form id="myListForm" onsubmit="processSelection();" method="dialog">
+    
+  Part Id:<br>
+  <input type="text" name="part_id" id="part_id_id" value="">
+  <br>
+  Url:<br>
+  <input type="text" name="part_url" id="part_url_id" value="">
+  <br>
+  Hovertext:<br>
+  <textarea rows="4" cols="50" name="comment" form="myListForm" id="part_text_id" placeholder="Enter hovertext for part:"></textarea>
+  <br>
+  <br>
+
+    <menu>
+      <button id="cancel" onclick="closeListDialog()" type="reset">Cancel</button>
+      <button id="mysubmit" type="submit">Confirm</button>
+    </menu>
+  </form>
+  
+
+</dialog>
+
+<button onclick="showCoords()">
+    Show coords 
+</button>
+
+<button onclick="showDivs()">
+    Show divs 
+</button>
+
+<script src="../js/map_helper.js"></script>
+</body>
+</html>

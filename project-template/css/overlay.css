@@ -1,0 +1,25 @@
+.parent {
+  position: relative;
+  top: 0;
+  left: 0;
+}
+.bottom-pic {
+  position: relative;
+  top: 0;
+  left: 0;
+}
+
+.top-pic {
+  position: absolute;
+  top: 0;
+  left: 0;
+  opacity: 0.2;
+}
+
+.mytestdiv {
+	z-index: 5;
+	position: absolute;
+	/* background-color: red;*/
+	/* opacity: 0.2;*/
+	display: none;
+}

@@ -69,3 +69,17 @@ Hovertext is displayed, and clicking on the region will take you to the web page
  
 Sample examples of the helper file, image map and css files are included in the html directory. They are called:
 asde-x-overview.html, asde-x-overview_helper.html and asdex-processing (in the css directory).
+
+# INSTALLATION AND CONFIGURATION
+
+To create a new html documentation project
+
+1. Copy the directory "project-template" and rename it to the name of your project.
+2. For each image that you would like to turn into an image-map, place the image
+file (for example, "my-image.jpg") into the "images" directory.
+3. For each image, copy and rename "helper-template.html" and "image-map-template.html"
+and place into the "html" directory.
+4. Modify the template files as described above, to replace the placeholders 
+"<image-name>.jpg", "<image-title>", and "<alt-text>" to match the name and title
+of your image.
+5. Now you are ready to create your image map.
